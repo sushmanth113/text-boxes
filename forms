@@ -1,0 +1,25 @@
+<html>
+<head>
+<title> text box ,radio button,check box, text area</title>
+</head>
+<body>
+<forms>
+<h1>text box</h1>
+<h2> login</h2>
+Username:<input type="text" maxlength="20"><br>
+password:<input type="password" >
+<h1><b> radio button</b></h1>
+<h1>GENDER</h1>
+<input type="radio" name="gender" checked> MALE<br>
+<input type="radio" name="gender">FEMALE
+<h1> check box</h1>
+<h2> hobbies</h2>
+<input type="checkbox"> singing<br>
+<input type="checkbox">playing<br>
+<input type="checkbox">listening<br>
+<input type="checkbox">reading<br>
+<input type="checkbox">sleeping<br>
+<h1>text area</h1>
+<h2>address</h2>
+<textarea rows="7" cols="100">
+</textarea>
